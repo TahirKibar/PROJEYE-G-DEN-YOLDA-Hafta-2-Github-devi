@@ -1,2 +1,1 @@
-# tekcift
-Sayıların tek mi çift mi olduğunu bilen c# kodu
+PROJEYE GİDEN YOLDA! Hafta 2 Github Ödevi
